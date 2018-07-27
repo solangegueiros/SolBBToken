@@ -1,5 +1,5 @@
 {
-  "name": "solwallet2",
+  "name": "solwallet",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
